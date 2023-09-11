@@ -15,7 +15,6 @@ const Forms = ({ handleClose }) => {
       [name]: value,
     });
   };
-  console.log("e.target", formData);
 
   const handleSubmit = async (e) => {
     e.preventDefault();
