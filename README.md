@@ -1,6 +1,6 @@
 # Live Url
 
-[Pricin Demo](https://pricing-demo-sand.vercel.app).
+[Pricing Demo](https://pricing-demo-sand.vercel.app).
 
 ## Available Scripts
 
