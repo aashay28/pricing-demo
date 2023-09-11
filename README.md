@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Live Url
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Pricin Demo](https://pricing-demo-sand.vercel.app).
 
 ## Available Scripts
 
