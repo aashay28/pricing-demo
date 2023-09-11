@@ -1,0 +1,9 @@
+.slider {
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* Customize these styles based on your design */
+.slider input[type="range"] {
+  width: 30%;
+}
